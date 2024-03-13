@@ -1,4 +1,4 @@
-![image](https://github.com/jmdiazarjona/jmdiazarjona/assets/129833384/af2aaac9-0f75-4efd-84ef-8b52b62730f5)<h2 align="center">
+<h2 align="center">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
