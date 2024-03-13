@@ -83,6 +83,6 @@
 
 <div align="right">
 
-_Based on [jmdiaz](https://github.com/jmdiadzarjona/jmdiazarjona/)'s readme._
+_Based on [codecruz](https://github.com/codecruz/codecruz/)'s readme._
 
 </div>
