@@ -81,6 +81,7 @@
   <img alt="jmdiazarjona's Activity Graph" width="50%" height="50%" src="https://wakatime.com/share/@018e1411-492a-4a12-8750-5b6c13a292c5/e3823e2b-9c7c-4ed2-854e-a93cf7263709.svg" />
 
 <!--FIN COPIADO CODIGO DE WAKATIME-->
+---
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jmdiazarjona's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jmdiazarjona&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false" /></a>
 <div>
