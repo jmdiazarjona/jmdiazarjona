@@ -1,4 +1,4 @@
-<h2 align="center">
+![image](https://github.com/jmdiazarjona/jmdiazarjona/assets/129833384/af2aaac9-0f75-4efd-84ef-8b52b62730f5)<h2 align="center">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
@@ -75,6 +75,18 @@
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+
+<div align="center">
+  
+<a href="">
+  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jmdiazarjona&langs_count=10&card_width=270&display_format=percent&hide_title=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jmdiazarjona&theme=nightfox&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" width="49%" />
+</a>
+
+</div>
+
 
 **I'm an Early 🐤** 
 
