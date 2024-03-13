@@ -76,6 +76,7 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
 <!--COPIADO CODIGO DE WAKATIME: https://wakatime.com/share/embed-->
 <div align="center">
   <img alt="jmdiazarjona's Activity Graph" width="50%" height="50%" src="https://wakatime.com/share/@018e1411-492a-4a12-8750-5b6c13a292c5/e3823e2b-9c7c-4ed2-854e-a93cf7263709.svg" />
