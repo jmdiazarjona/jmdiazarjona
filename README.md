@@ -109,11 +109,12 @@ Sunday                   3 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               28 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+JavaScript               48 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.36 % 
+PHP                      29 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.64 % 
 ```
 
 
- Last Updated on 22/03/2024 00:33:54 UTC
+ Last Updated on 23/03/2024 00:33:19 UTC
 <!--END_SECTION:waka-->
 
 <!--COPIADO CODIGO DE WAKATIME: https://wakatime.com/share/embed-->
