@@ -71,7 +71,7 @@
 <div align="center">
   
 <a href="">
-  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jmdiazarjona&langs_count=10&card_width=270&display_format=percent&hide_title=true" />
+  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jmdiazarjona&langs_count=10&card_width=270&display_format=percent&hide_title=true&v=lo" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jmdiazarjona&theme=nightfox&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" width="49%" />
