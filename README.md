@@ -80,7 +80,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -113,7 +113,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/11/2025 00:56:48 UTC
+ Last Updated on 02/11/2025 00:57:21 UTC
 <!--END_SECTION:waka-->
 
 <!--COPIADO CODIGO DE WAKATIME: https://wakatime.com/share/embed-->
