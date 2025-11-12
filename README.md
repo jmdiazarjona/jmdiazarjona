@@ -109,11 +109,12 @@ Sunday                   0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.35 % 
+PHP                      0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.65 % 
 ```
 
 
- Last Updated on 11/11/2025 00:55:42 UTC
+ Last Updated on 12/11/2025 00:55:19 UTC
 <!--END_SECTION:waka-->
 
 <!--COPIADO CODIGO DE WAKATIME: https://wakatime.com/share/embed-->
